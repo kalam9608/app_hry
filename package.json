@@ -1,6 +1,6 @@
 {
   "homepage": "https://kalam9608.github.io/app_hry",
-  "name": "app_hry",
+  "name": "app_hry", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
